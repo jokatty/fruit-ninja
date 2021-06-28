@@ -34,4 +34,4 @@ The goal of the game is to slice as many fruits as one can while avoiding slicin
 ## 👥 User Flow:
 
 <li>No user login/registration required to play the game</li>
-<img src="assests/userflow.png"/>
+<img src="assests/userflow.jpg"/>
